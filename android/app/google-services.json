@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718560282576",
+    "project_id": "invetarioalfa",
+    "storage_bucket": "invetarioalfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718560282576:android:364091e16d10f8f98e1bd5",
+        "android_client_info": {
+          "package_name": "com.example.inventario_alfa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeb95PhXWrj7BHOPAGErJXwiiNGHtWxlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
