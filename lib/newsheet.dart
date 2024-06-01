@@ -252,13 +252,14 @@ class _SearchState extends State<Search> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
+        backgroundColor: const Color.fromARGB(255, 127, 210, 251),
+        appBar: AppBar(
         title: TextField(
           controller: _searchController,
           decoration: const InputDecoration(
             hintText: 'Buscar...',
             border: InputBorder.none,
-            hintStyle: TextStyle(color: Colors.white54),
+            hintStyle: TextStyle(color: Colors.black),
           ),
           style: const TextStyle(color: Color.fromARGB(255, 116, 115, 115), fontSize: 18.0),
           onChanged: (text) {
